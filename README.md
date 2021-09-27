@@ -1,6 +1,26 @@
-### Hi there 👋
+# Doyeon Kim 
+**Web Developer**
+
+📫 jisk0228@gmail.com
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bmacaron&layout=compact&theme=radical&langs_count=5)
+
+
 
 <!--
+
+# Skills
+- JAVA
+- Javascript, Jquery
+- jsp, thymeleaf
+- Spring MVC, Spring Boot
+- MyBatis, iBatis
+- Oracle
+- Git, GitLab, SourceTree, SVN
+- Maven, Gradle
+- Jenkins
+- Slack, Notion
+- Redmine
 **bmacaron/bmacaron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
